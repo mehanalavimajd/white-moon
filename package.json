@@ -1,0 +1,27 @@
+{
+    "name": "white-moon",
+    "displayName": "white moon",
+    "description": "",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "white moon theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Blue cut theme-color-theme.json"
+            }
+        ]
+    },
+    "author": "mehan alavi majd",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mehanalavimajd/white-moon"
+    }
+}
